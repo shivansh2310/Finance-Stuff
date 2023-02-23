@@ -13,3 +13,6 @@ Finance realted codes
 
 ![B.S Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/0c7c7f7d95dc9641384300683d0678f352e1ba75)
 
+3> Basic portfolio optimization
+
+
