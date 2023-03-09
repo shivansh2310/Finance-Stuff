@@ -11,7 +11,7 @@ Finance realted codes
 
 >[Based on Carhart four-factor model](https://en.wikipedia.org/wiki/Carhart_four-factor_model) 
 
-![B.S Image]([https://wikimedia.org/api/rest_v1/media/math/render/svg/0c7c7f7d95dc9641384300683d0678f352e1ba75](https://minio.scielo.br/documentstore/1808-057X/f9CF6tj7HVHQMgqgW69bWgR/48a14b685bd4c31284fa45a30edafd5bff731385.jpg) 
+![B.S Image]([https://wikimedia.org/api/rest_v1/media/math/render/svg/0c7c7f7d95dc9641384300683d0678f352e1ba75](https://minio.scielo.br/documentstore/1808-057X/f9CF6tj7HVHQMgqgW69bWgR/48a14b685bd4c31284fa45a30edafd5bff731385.jpg))
 
 3> Basic portfolio optimization
 
