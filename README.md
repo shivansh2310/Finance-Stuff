@@ -15,4 +15,8 @@ Finance realted codes
 
 3> Basic portfolio optimization
 
+4> systematic tactical momentum strategy [Momentum Calculator]
+
+![B.S Image](https://pbs.twimg.com/media/FqvDQLzXoAg8zjO?format=jpg&name=900x900)
+
 
